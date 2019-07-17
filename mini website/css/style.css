@@ -1,0 +1,123 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+nav {
+    height: 50px;
+    background-color:lightcyan;
+    margin-right: 23px;
+}
+
+.home {
+    display: inline-block;
+    padding: 15px;
+    width: 10%;
+    background-color: lightblue
+}
+
+.diet {
+    display: inline-block;
+    padding: 15px;
+    width: 10%;
+    background-color: lightblue;
+}
+
+.habitat {
+    display: inline-block;
+    padding: 15px;
+    width: 10%;
+    background-color: lightblue;
+}
+
+
+
+.left {
+    background-color: aqua;
+    height: 600px;
+    display:inline-block;
+    width: 29%;
+ 
+}
+
+.right {
+    background-color:peru;
+    height: 600px;
+    display:inline-block;;
+    width: 69%
+    
+}
+
+.top{
+    float:left;
+    background-color:gray;
+    width:100%;
+    height:40%;
+}
+
+.bottom {
+    float:left;
+    background-color:lightgray;
+    width: 100%;
+    height:60%;
+}
+
+p {
+    padding:8px;
+}
+
+h1 {
+    padding:8px;
+}
+
+.Emmi1 { 
+    padding: 15px;
+    margin-right: 25px;
+    margin-bottom: 10px;
+    float:right;
+}
+
+li {
+    margin-bottom: 15px;
+}
+.upper{
+    float:left;
+    background-color:lightgray;
+    width:100%;
+    height:50%;
+    
+}
+
+.lower {
+    float:left;
+    background-color:gray;
+    width: 100%;
+    height: 50%
+}
+
+.Emmi2 {
+    float:left;
+    margin-left: 40px;
+    margin-right:20px;
+    margin-top:20px;
+    padding: 10px;
+}
+
+.Emmi3 {
+    display:inline-block;
+    margin-left: 125px;
+    padding: 20px;
+}
+
+.Emmi5 {
+    display:inline-block;
+    padding: 20px;
+}
+
+.Emmi4 {
+    display:inline-block;
+    padding:20px;
+}
+h2 {
+    margin-left: 368px;
+    
+}
